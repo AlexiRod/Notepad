@@ -1,0 +1,32 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad__.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.genruntimeconfig.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad__.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\bin\Debug\netcoreapp3.1\Notepad++.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad__.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad__.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\Notepad++\Notepad++\Notepad++\obj\Debug\netcoreapp3.1\Notepad++.genruntimeconfig.cache
